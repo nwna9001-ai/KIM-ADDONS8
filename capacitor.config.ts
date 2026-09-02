@@ -1,9 +1,7 @@
-import type { CapacitorConfig } from '@capacitor/cli';
-
-const config: CapacitorConfig = {
+const config = {
   appId: 'com.kimaddons.app',
   appName: 'KIM ADDONS',
-  webDir: 'dist',
+  webDir: 'dist'
 };
 
 export default config;
